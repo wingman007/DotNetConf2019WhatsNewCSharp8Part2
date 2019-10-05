@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetConf2019C8Part2", "DotNetConf2019C8Part2\DotNetConf2019C8Part2.csproj", "{DF9D72BE-3709-4BD8-B303-2064666EB79E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncIterators", "AsyncIterators\AsyncIterators.csproj", "{AD2D7CDE-4E29-4CB0-86B1-390483F7AC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF9D72BE-3709-4BD8-B303-2064666EB79E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9D72BE-3709-4BD8-B303-2064666EB79E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9D72BE-3709-4BD8-B303-2064666EB79E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9D72BE-3709-4BD8-B303-2064666EB79E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2D7CDE-4E29-4CB0-86B1-390483F7AC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2D7CDE-4E29-4CB0-86B1-390483F7AC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2D7CDE-4E29-4CB0-86B1-390483F7AC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2D7CDE-4E29-4CB0-86B1-390483F7AC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97074E03-F461-4F5A-9F35-3B8D2B709BD5}
+	EndGlobalSection
+EndGlobal
