@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 using AsyncIterators;
 
+// https://www.youtube.com/watch?v=fhf8N4004u0
 // namespace WhatsNewCSharp8
 // https://stackoverflow.com/questions/53272962/system-io-filenotfoundexception-for-microsoft-entityframeworkcore
 namespace DotNetConf2019C8Part2
